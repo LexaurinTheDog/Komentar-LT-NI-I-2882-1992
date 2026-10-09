@@ -188,7 +188,7 @@ Ketvirtoji dalis nustato kumuliacines sąlygas: laikomasi tapatybės nustatymo r
 
 **Nuostatos tekstas:**
 
-> Tais atvejais, kai vienas notarinio veiksmo dalyvis notarinį veiksmą atlieka šio įstatymo 28 straipsnio antrojoje dalyje nustatyta tvarka notaro biure, o kitas notarinio veiksmo dalyvis notarinį veiksmą atlieka šio įstatymo 281 straipsnyje nustatyta tvarka nuotoliniu būdu (toliau – mišrusis būdas), notaras privalo sudaryti sąlygas visiems notarinio veiksmo dalyviams netrukdomai bendrauti su notaru ir tarpusavyje ir sudaryti galimybes notarinio veiksmo dalyviams pasirašyti dokumentus per kuo trumpesnį laiką.
+> Tais atvejais, kai vienas notarinio veiksmo dalyvis notarinį veiksmą atlieka šio įstatymo 28 straipsnio antrojoje dalyje nustatyta tvarka notaro biure, o kitas notarinio veiksmo dalyvis notarinį veiksmą atlieka šio įstatymo 28¹ straipsnyje nustatyta tvarka nuotoliniu būdu (toliau – mišrusis būdas), notaras privalo sudaryti sąlygas visiems notarinio veiksmo dalyviams netrukdomai bendrauti su notaru ir tarpusavyje ir sudaryti galimybes notarinio veiksmo dalyviams pasirašyti dokumentus per kuo trumpesnį laiką.
 >
 > Atliekant notarinius veiksmus mišriuoju būdu, notarinio veiksmo dalyvių fizinė buvimo vieta, notarinio veiksmo dalyvių, notaro dokumentų pasirašymo, tvirtinimo ir liudijimo vieta ir laikas, formatas ir laikmenos gali nesutapti.
 >
@@ -196,7 +196,7 @@ Ketvirtoji dalis nustato kumuliacines sąlygas: laikomasi tapatybės nustatymo r
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 
-28² straipsnis reglamentuoja **mišrųjį** notarinių veiksmų atlikimo būdą – kai vienas veiksmo dalyvis atvyksta į notaro biurą (28 straipsnio antroji dalis), o kitas dalyvauja nuotoliniu būdu (28¹ straipsnis; šaltinyje nuoroda užrašyta kaip „281 straipsnis“). Pirmojoje dalyje įvedama sąvoka „mišrusis būdas“ ir nustatomos notaro pareigos: sudaryti sąlygas visiems dalyviams netrukdomai bendrauti su notaru ir tarpusavyje bei pasirašyti dokumentus per kuo trumpesnį laiką. Pirmoji pareiga užtikrina, kad nuotolinis dalyvis turėtų tas pačias galimybes gauti išaiškinimą (30 straipsnis) ir dalyvauti derybose, kaip ir esantis biure; antroji – kad tarp parašų nebūtų reikšmingo laiko tarpo, per kurį pasikeistų aplinkybės.
+28² straipsnis reglamentuoja **mišrųjį** notarinių veiksmų atlikimo būdą – kai vienas veiksmo dalyvis atvyksta į notaro biurą (28 straipsnio antroji dalis), o kitas dalyvauja nuotoliniu būdu (28¹ straipsnis). Pirmojoje dalyje įvedama sąvoka „mišrusis būdas“ ir nustatomos notaro pareigos: sudaryti sąlygas visiems dalyviams netrukdomai bendrauti su notaru ir tarpusavyje bei pasirašyti dokumentus per kuo trumpesnį laiką. Pirmoji pareiga užtikrina, kad nuotolinis dalyvis turėtų tas pačias galimybes gauti išaiškinimą (30 straipsnis) ir dalyvauti derybose, kaip ir esantis biure; antroji – kad tarp parašų nebūtų reikšmingo laiko tarpo, per kurį pasikeistų aplinkybės.
 
 Antroji dalis pripažįsta, kad mišriuoju būdu dalyvių fizinė buvimo vieta, pasirašymo, tvirtinimo ir liudijimo vieta bei laikas, dokumentų formatas ir laikmenos **gali nesutapti**. Ši nuostata pašalina abejones dėl sandorio, kurio dalis pasirašyta popieriuje, o dalis – elektroniniu būdu, galiojimo. Kartu ji siejasi su 46 straipsnio septintąja ir aštuntąja dalimis: mišriuoju ar nuotoliniu būdu tvirtinamose nekilnojamojo daikto perleidimo ir hipotekos sutartyse sudarymo laikas valandomis ir minutėmis nenurodomas.
 
